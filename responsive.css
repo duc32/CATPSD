@@ -120,7 +120,7 @@
             font-weight: 800;
         }
         .container_2-label {
-            margin: 0px 33%;
+            margin: 0px 120px;
         }
         .db-a{
             top: 20px;
@@ -131,6 +131,8 @@
         .btn-sb{
             margin: 0;
             padding: 14px 18px;
+            font-size: 1rem;
+    margin-left: -35px
         }
         .input{
             padding: 10px 30px 10px 10px;
@@ -158,9 +160,7 @@
             .footer-2{
                 margin: 10px;
             }
-            .container_2-list-img{
-                width: 60%;
-            }
+            
 }
 
 
