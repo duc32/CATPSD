@@ -193,7 +193,7 @@ box-sizing: border-box;
 }
 
 .avatar-ctn{
- top: 55%;
+ top: 50%;
 }
 .label-db{
     color: var(--text);
